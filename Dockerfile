@@ -46,4 +46,4 @@ ln -s /usr/local/python3/bin/pip3 /usr/local/bin/pip3;\
 python3 -V;\
 pip3 -V;
 
-ENTRYPOINT python3
+CMD python3
